@@ -1,4 +1,4 @@
-# Discord Bot for the #r/GameDeals in Reddit
+# Discord Bot for the r/GameDeals
 
 This bot is a simple Discord bot that get the latest 5 posts from [r/GameDeals](https://www.reddit.com/r/GameDeals/) and send them to a Discord channel.
 
